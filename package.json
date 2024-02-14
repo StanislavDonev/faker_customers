@@ -1,0 +1,16 @@
+{
+  "name": "faker_customers",
+  "version": "1.0.0",
+  "description": "Generate sample customers",
+  "main": "index.js",
+  "repository": "https://github.com/StanislavDonev/faker_customers.git",
+  "author": "Stanislav Donev",
+  "license": "MIT",
+  "dependencies": {
+    "@faker-js/faker": "^8.4.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.17",
+    "typescript": "^5.3.3"
+  }
+}
